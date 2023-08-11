@@ -1,0 +1,15 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\bin\Debug\net7.0\Die-erDiceyDi-ingDice.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\bin\Debug\net7.0\Die-erDiceyDi-ingDice.deps.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\bin\Debug\net7.0\Die-erDiceyDi-ingDice.runtimeconfig.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\bin\Debug\net7.0\Die-erDiceyDi-ingDice.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\bin\Debug\net7.0\Die-erDiceyDi-ingDice.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\obj\Debug\net7.0\Die-erDiceyDi-ingDice.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\obj\Debug\net7.0\Die-erDiceyDi-ingDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\obj\Debug\net7.0\Die-erDiceyDi-ingDice.AssemblyInfoInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\obj\Debug\net7.0\Die-erDiceyDi-ingDice.AssemblyInfo.cs
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\obj\Debug\net7.0\Die-erDiceyDi-ingDice.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\obj\Debug\net7.0\Die-erDiceyDi-ingDice.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\obj\Debug\net7.0\refint\Die-erDiceyDi-ingDice.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\obj\Debug\net7.0\Die-erDiceyDi-ingDice.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\obj\Debug\net7.0\Die-erDiceyDi-ingDice.genruntimeconfig.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Die-erDiceyDi-ingDice\obj\Debug\net7.0\ref\Die-erDiceyDi-ingDice.dll
